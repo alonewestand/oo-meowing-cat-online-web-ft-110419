@@ -1,4 +1,4 @@
-def Cat
+class Cat
   
   attr_accesor :name
 

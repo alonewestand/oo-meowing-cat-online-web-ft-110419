@@ -5,6 +5,6 @@ def Cat
   def meow=(@meow)
   
   def meow
-    puts "#{@meow!}"
+    puts "meow!"
   end
 end

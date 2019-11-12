@@ -1,4 +1,4 @@
-def initialize Cat
+def Cat
   attr_accesor :name
 
   def meow=(meow)

@@ -1,4 +1,4 @@
-def Cat
+def initialize Cat
   attr_writer :name
   attr_reader :name
   

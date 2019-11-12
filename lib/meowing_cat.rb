@@ -2,6 +2,8 @@ class Cat
   
   attr_accesor :name
 
+
+
   def meow=(meow)
     @meow = meow
   end

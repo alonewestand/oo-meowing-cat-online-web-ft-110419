@@ -11,3 +11,5 @@ def Cat
   end
 
 end
+
+mary = Cat.new

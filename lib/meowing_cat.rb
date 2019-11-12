@@ -1,7 +1,6 @@
 def initialize Cat
-  attr_writer :name
-  attr_reader :name
-  
+  attr_accesor :name
+
   def meow=(meow)
     @meow = meow
   end

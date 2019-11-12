@@ -12,4 +12,4 @@ def Cat
 
 end
 
-mary = Cat.new
+maru = Cat.new
